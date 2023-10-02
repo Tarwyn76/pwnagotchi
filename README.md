@@ -1,4 +1,4 @@
-This is a compilatiopn of the tools and code that I utilized to get my own pwnagotchi up and running on a Raspberry Pi Zero W.  Thank s to the Talking Sasquatch YouTube Video @ (https://www.youtube.com/watch?v=gyKT_mASSuc&t=2s)
+This is a compilatiopn of the tools and code that I utilized to get my own pwnagotchi up and running on a Raspberry Pi Zero W.  Thank s to the [Talking Sasquatch YouTube Video] .(https://www.youtube.com/watch?v=gyKT_mASSuc&t=2s)
 
 # Pwnagotchi
 
@@ -46,8 +46,7 @@ Twitter | [@pwnagotchi](https://twitter.com/pwnagotchi)
 
 
 
-Xylose # Pwnagotchi-new-guerilla-guide 
-(https://github.com/Xyl0se/Pwnagotchi-new-guerilla-guide#pwnagotchi-new-guerilla-guide)
+Xylose # [Pwnagotchi-new-guerilla-guide] .(https://github.com/Xyl0se/Pwnagotchi-new-guerilla-guide#pwnagotchi-new-guerilla-guide)
 Updated version of panoptyks 2022 guerilla guide
 
 ## Preface
